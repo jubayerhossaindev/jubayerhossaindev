@@ -29,10 +29,5 @@
 
 ---
 
-## 📌 Featured Project
-🗓️ [Bangla Calendar](https://jubayerhossaindev.github.io/banglacalender/) — Live Bangla, Hijri & Gregorian dates with prayer times & holidays
-
----
-
 ## 📫 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-jubayerhossaindev-181717?style=flat&logo=github)](https://github.com/jubayerhossaindev)
