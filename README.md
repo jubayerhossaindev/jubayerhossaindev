@@ -12,7 +12,6 @@ Building practical software with a focus on clear developer experiences, dependa
 
 ---
 
-## Professional Profile
 
 I work across the JavaScript and TypeScript ecosystem, backend development, and Rust-based tooling. I enjoy understanding how software works beneath the surface and turning that knowledge into tools and applications that are useful, maintainable, and straightforward to use.
 
