@@ -30,9 +30,6 @@ A multi-format ESLint formatter for Node.js, built around a Rust core exposed th
 
 **Frontend and tooling:** React, Vite, GitHub Actions
 
-## More work
-
-[Browse my public repositories](https://github.com/jubayerhossaindev?tab=repositories) for additional projects, experiments, and learning work.
 
 ---
 
