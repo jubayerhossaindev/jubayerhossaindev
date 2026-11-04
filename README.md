@@ -13,8 +13,6 @@ Building practical software with a focus on clear developer experiences, dependa
 ---
 
 
-## Professional Profile
-
 I work across the **JavaScript and TypeScript ecosystem**, backend engineering, and **Rust-based tooling**. I’m interested in how software works beneath the surface and in building tools and applications that are practical, maintainable, and clear to use.
 
 <table>
@@ -41,36 +39,23 @@ I work across the **JavaScript and TypeScript ecosystem**, backend engineering, 
 
 <p><strong>Languages</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust&theme=light" alt="JavaScript, TypeScript, Rust" />
 </p>
 
-<p><strong>Backend &amp; Runtime</strong></p>
+<p><strong>Backend &amp; Databases</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-</p>
-
-<p><strong>Databases &amp; Data</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,sqlite,prisma&theme=light" alt="Node.js, NestJS, PostgreSQL, SQLite, Prisma" />
 </p>
 
 <p><strong>Frontend</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light" alt="React, Vite, Tailwind CSS" />
 </p>
 
-<p><strong>Tooling &amp; Workflow</strong></p>
+<p><strong>Development Tools</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode&theme=light" alt="Git, GitHub, GitHub Actions, Docker, Visual Studio Code" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm" />
 </p>
 
 ## Engineering Approach
