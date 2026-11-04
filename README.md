@@ -32,12 +32,6 @@ A Rust-powered ESLint formatter for Node.js, connected through N-API. The projec
 
 [Repository](https://github.com/jubayerhossaindev/eslint-formatter-crisp) · [npm package](https://www.npmjs.com/package/eslint-formatter-crisp)
 
-### [VASS](https://github.com/jubayerhossaindev/vass)
-
-A CSS preprocessor written in Rust. It compiles `.vass` and `.vcss` stylesheets and includes a CLI alongside editor-oriented tooling.
-
-[Repository](https://github.com/jubayerhossaindev/vass) · [Crates.io](https://crates.io/crates/vass) · [API documentation](https://docs.rs/vass)
-
 ### [fresh-normalize](https://github.com/jubayerhossaindev/fresh-normalize-beta)
 
 An early-stage CSS normalization project exploring accessible defaults, design tokens, and native dark-mode support.
