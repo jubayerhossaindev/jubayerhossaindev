@@ -8,7 +8,6 @@ Building practical software with Rust, JavaScript, TypeScript, and Node.js.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jubayerhossaindev-181717?style=flat-square&logo=github)](https://github.com/jubayerhossaindev)
 [![ESLint Formatter Crisp](https://img.shields.io/badge/Featured-ESLint%20Formatter%20Crisp-6e40c9?style=flat-square)](https://github.com/jubayerhossaindev/eslint-formatter-crisp)
-[![VASS](https://img.shields.io/badge/Featured-VASS-d97706?style=flat-square)](https://github.com/jubayerhossaindev/vass)
 
 </div>
 
