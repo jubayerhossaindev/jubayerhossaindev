@@ -7,14 +7,6 @@
 
 Building practical software with a focus on clear developer experiences, dependable backend systems, and performance-conscious implementation.
 
-<p>
-  <a href="https://github.com/jubayerhossaindev?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-  <a href="https://www.npmjs.com/package/eslint-formatter-crisp">
-    <img src="https://img.shields.io/badge/npm-eslint--formatter--crisp-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="ESLint Formatter Crisp on npm" />
-  </a>
-</p>
 
 </div>
 
