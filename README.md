@@ -13,23 +13,26 @@ Building practical software with a focus on clear developer experiences, dependa
 ---
 
 
-I work across the JavaScript and TypeScript ecosystem, backend development, and Rust-based tooling. I enjoy understanding how software works beneath the surface and turning that knowledge into tools and applications that are useful, maintainable, and straightforward to use.
+## Professional Profile
 
-My interests are centered on three areas:
+I work across the **JavaScript and TypeScript ecosystem**, backend engineering, and **Rust-based tooling**. I’m interested in how software works beneath the surface and in building tools and applications that are practical, maintainable, and clear to use.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Developer Tooling</h3>
-      <p>Formatting, command-line utilities, automation, and improving everyday development workflows.</p>
+      <p><strong>01 &nbsp; / &nbsp; DEVELOPER TOOLING</strong></p>
+      <h3>Better developer workflows</h3>
+      <p>Formatters, command-line utilities, automation, and tools that make everyday development more efficient.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Backend Engineering</h3>
-      <p>Application architecture, APIs, server-side JavaScript, and relational data systems.</p>
+      <p><strong>02 &nbsp; / &nbsp; BACKEND ENGINEERING</strong></p>
+      <h3>Dependable application systems</h3>
+      <p>Server-side applications, API design, application architecture, and relational data systems.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Systems Programming</h3>
-      <p>Rust, native components, runtime integration, and performance-sensitive software.</p>
+      <p><strong>03 &nbsp; / &nbsp; SYSTEMS PROGRAMMING</strong></p>
+      <h3>Working closer to the runtime</h3>
+      <p>Rust, native components, Node.js runtime integration, and performance-conscious implementation.</p>
     </td>
   </tr>
 </table>
